@@ -1,44 +1,136 @@
-# Plantilla Web DentaLux - Clínica Dental Premium
+DentaLux
+✦ Clínica Dental Premium en Madrid
+Tu sonrisa
+merece lo mejor
+Tratamientos dentales de alta precisión con tecnología de vanguardia. Desde ortodoncia invisible hasta estética dental, transformamos tu sonrisa.
 
-Esta es una plantilla web moderna y responsive diseñada para clínicas dentales de alta gama que buscan una presencia online elegante y funcional.
+Pedir Cita Gratis →
+Ver Tratamientos
+3.200+
+Pacientes felices
+15 años
+De experiencia
+4.9 ★
+En Google
+Nuestros Tratamientos
+Todo lo que tu sonrisa necesita
+Ofrecemos una gama completa de tratamientos dentales para cuidar tu salud bucodental.
 
-## Descripción del Proyecto
+01
+✨
+Estética Dental
+Blanqueamiento, carillas de porcelana y diseño de sonrisa personalizado para una imagen radiante.
 
-La plantilla DentaLux ofrece un diseño limpio y profesional, enfocado en la usabilidad y la experiencia del paciente. Incluye secciones clave como:
+02
+🔲
+Ortodoncia Invisible
+Invisalign y alineadores transparentes para corregir tu mordida sin que nadie lo note.
 
-*   **Página de Inicio:** Con un banner llamativo y una clara propuesta de valor.
-*   **Servicios:** Detalle de tratamientos dentales de vanguardia.
-*   **Testimonios:** Opiniones de pacientes satisfechos.
-*   **Acerca de Nosotros:** Información sobre la clínica y el equipo.
-*   **Contacto:** Con formulario de citas y ubicación.
+03
+🔩
+Implantes Dentales
+Implantes de titanio de última generación con una tasa de éxito del 98%. Dientes fijos para siempre.
 
-Diseñada con HTML5, CSS3 y JavaScript, es completamente adaptable a cualquier dispositivo (móvil, tablet, escritorio) y fácil de personalizar.
+04
+👶
+Odontología Infantil
+Tratamientos especializados para los más pequeños en un ambiente tranquilo y amigable.
 
-## Características Principales
+05
+🛡️
+Periodoncia
+Tratamiento de encías y prevención de enfermedades periodontales. Protegemos tus dientes.
 
-*   Diseño **Premium y Elegante**.
-*   **100% Responsive** (adaptable a móviles y tablets).
-*   **Optimizado para la velocidad de carga**.
-*   Fácil de **personalizar** (colores, fuentes, contenido).
-*   Código **limpio y bien estructurado**.
+06
+🔬
+Radiología Digital
+Diagnóstico preciso con tecnología de rayos X digital y escáner 3D de última generación.
 
-## Cómo Usar esta Plantilla (para desarrolladores/clientes)
+¿Por qué DentaLux?
+Más que una clínica,
+un compromiso
+Cada paciente recibe atención personalizada, tecnología de vanguardia y el cariño de un equipo apasionado por tu salud.
 
-1.  **Descarga** el archivo ZIP de la plantilla.
-2.  **Descomprime** el contenido en tu directorio de trabajo.
-3.  **Abre `index.html`** en tu navegador para ver la plantilla.
-4.  **Personaliza** el contenido (texto, imágenes) y el estilo (colores, fuentes) editando los archivos `index.html`, `css/style.css` y `js/script.js`.
-5.  Sube los archivos a tu servidor web.
+🏆
+Especialistas acreditados
+Nuestro equipo cuenta con certificaciones internacionales y formación continua.
+⚡
+Tecnología digital avanzada
+Escáner intraoral, impresión 3D y tratamientos guiados por ordenador.
+💳
+Financiación sin intereses
+Planes de pago flexibles adaptados a tu presupuesto. Sin estrés financiero.
+📅
+Citas el mismo día
+Urgencias atendidas en 24h. Horarios amplios de lunes a sábado.
+98%
+Éxito en implantes
+4.9★
+Google Reviews
+15+
+Años experiencia
+3.2K
+Pacientes atendidos
+Lo que dicen nuestros pacientes
+Sonrisas que hablan
+Más de 3.000 pacientes confían en DentaLux para cuidar su salud dental.
 
-## Demo en Vivo
+★★★★★
+Llevaba años con miedo al dentista y en DentaLux me trataron con una paciencia increíble. El resultado de mi Invisalign superó todas mis expectativas.
 
-Puedes ver una demostración en vivo de esta plantilla aquí:
-[**[ENLACE A TU DEMO DE GITHUB PAGES AQUÍ]**](https://tu_usuario.github.io/denta-lux-web/)
+L
+Laura M.
+Tratamiento Invisalign
+★★★★★
+Me hicieron tres implantes y el proceso fue sin dolor, muy profesional. Ahora puedo comer de todo sin problema. El equipo es espectacular.
 
-*(Recuerda reemplazar `https://tu_usuario.github.io/denta-lux-web/` con el enlace real que te dé GitHub Pages una vez que lo publiques.)*
+R
+Roberto S.
+Implantes dentales
+★★★★★
+El diseño de sonrisa que me hicieron cambió mi vida. Las carillas de porcelana son naturales y preciosas. ¡Toda la gente me pregunta qué me he hecho!
 
-## Contacto
+A
+Ana G.
+Diseño de sonrisa
+Empieza Hoy
+Primera consulta gratuita
+Rellena el formulario y te llamaremos en menos de 2 horas para confirmar tu cita. Sin compromiso, sin esperas.
 
-Si tienes alguna pregunta o necesitas asistencia con la personalización, no dudes en contactarme.
+Diagnóstico completo sin coste
+Plan de tratamiento personalizado
+Presupuesto detallado y financiación
+Atención inmediata para urgencias
+🔥 Oferta especial este mes
+Blanqueamiento dental GRATIS con cualquier tratamiento mayor a 500€.
+Solicita tu Cita Gratis
+Te confirmamos en menos de 2 horas · Sin compromiso
+Nombre
+Tu nombre
+Apellidos
+Tus apellidos
+Teléfono
++34 6XX XXX XXX
+Email
+tu@email.com
+¿Qué tratamiento te interesa?
 
----
+Selecciona un tratamiento...
+¿Cuándo prefieres la cita?
+
+Preferencia de horario...
+Cuéntanos algo (opcional)
+Descríbenos brevemente tu situación o consulta...
+Solicitar Cita Gratis ✦
+🔒 Tus datos están protegidos. No compartimos información con terceros.
+
+DentaLux
+Clínica Dental Premium · Calle Gran Vía, 45 · Madrid · Tel: 910 123 456
+
+Inicio
+Servicios
+Nosotros
+Opiniones
+Contacto
+Privacidad
+© 2026 DentaLux Clínica Dental. Todos los derechos reservados.
